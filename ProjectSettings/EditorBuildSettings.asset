@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: adc140f0172ce7e4ea3357bd44c69b6f
+  - enabled: 1
+    path: Assets/Scenes/lvl_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lvl_2.unity
+    guid: 1829bded4dab6b64c925fe51ac5d4050
+  - enabled: 1
+    path: Assets/Scenes/lvl_3.unity
+    guid: 466fa4376ba01c248b6e147d2270c39a
+  - enabled: 1
+    path: Assets/Scenes/lvl_4.unity
+    guid: 2d3cd718775ca65489efe9cdcc197356
+  - enabled: 1
+    path: Assets/Scenes/lvl_5.unity
+    guid: b11a420d729873242aa8ec29901b5f22
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c4bb09929d4938b4bb034e6adc58cfea
+  - enabled: 1
+    path: Assets/Scenes/Champion1.unity
+    guid: 601eeb691ebbc5547a6e922e683decbe
+  - enabled: 1
+    path: Assets/Scenes/Champion2.unity
+    guid: 46bf8a84e9899bd468efe484822b3489
+  - enabled: 1
+    path: Assets/Scenes/Champion3.unity
+    guid: 4123846c5dea56c4a956e53b80718139
+  - enabled: 1
+    path: Assets/Scenes/Champion4.unity
+    guid: 6dde7ed767452bd428dffbc90992cc2b
+  m_configObjects: {}
