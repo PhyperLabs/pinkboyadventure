@@ -12,4 +12,4 @@ Thank you for downloading
 
 ### PrivacyPolicy
 
-- [READ]([pinkboyadventure](https://github.com/PhyperLabs/pinkboyadventure)/**PrivacyPolicy.md**)
+- [READ](PrivacyPolicy.md)
